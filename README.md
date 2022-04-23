@@ -10,10 +10,10 @@ This repository contains a public-facing list of audits that have been performed
 - Token Symbol: `$NFCMY`
 - Token Decimals: `10`
 - Total Supply: `200,000,000`
-- Initial Circulating Supply: `85,750,000` (The full token emission schedule is [here](https://hotcross.link/hotcross-economy).)
+- Initial Circulating Supply: `85,750,000` (The full token emission schedule is [here](https://nfcmy.com/tokenomics).)
 - Current Supply: https://api.nfcmy.com/supply
 - Current Circulating Supply: https://api.nfcmy.com/circulating
-- [Binance Smart Chain](https://www.binance.org/en/smartChain) Contract Address: [0x4FA7163E153419E0E1064e418dd7A99314Ed27b6](https://bscscan.com/address/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6) (Bridge) ([link](https://bridge.hotcross.com/))
+- [Binance Smart Chain](https://www.binance.org/en/smartChain) Contract Address: [0x4FA7163E153419E0E1064e418dd7A99314Ed27b6](https://bscscan.com/address/0x4FA7163E153419E0E1064e418dd7A99314Ed27b6)
 - [Avalanche C-Chain](https://www.avax.network/) Contract Address: [not yet]
 - [Solana](https://solana.com/) Contract Address: [not yet]
 

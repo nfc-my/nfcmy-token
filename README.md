@@ -1,4 +1,4 @@
-# NFC Token Audits
+# NFC MY Audits
 
 This repository contains a public-facing list of audits that have been performed on the [NFC MY](https://nfcmy.com/) codebase and select NFC MY products.
 
